@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Theodore1512
+- 🇬🇷 I live in Greece
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning python
 - 📫 How to reach me? Via my email: vasilikostheo@icloud.com
